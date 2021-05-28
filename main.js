@@ -85,6 +85,7 @@ function check () {
 
     //prints result of quiz
     document.getElementById('results').innerHTML = "Your result for this quiz: " + c + "/6."
+    document.getElementById('goHome').style.visibility = "visible";
 
     //scrolls to top after everything has been marked
     window.scrollTo(0,0);

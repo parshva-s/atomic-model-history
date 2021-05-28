@@ -91,3 +91,16 @@ button {
   text-align: center;
   font-size: 40px;
 }
+
+#goBack {
+  font-weight: 400;
+  margin-left: 2%;
+}
+
+#goHome {
+  width:fit-content;
+  padding: 10px;
+  font-size: 25px; 
+  margin-top: -10%;
+  visibility: hidden;
+}
