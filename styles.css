@@ -1,0 +1,93 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
+  background-color: blanchedalmond;
+}
+
+div {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 1%;
+}
+
+ol {
+  font-size: 20px;
+  border: 1px black solid;
+  padding-bottom: 2%;
+  margin: 5%;
+  width: auto;
+}
+
+li {
+  margin-left: 2%;
+  padding-bottom: 1%;
+  white-space: nowrap;
+}
+
+p,
+img {
+  margin-left: 4%;
+}
+
+h2 {
+  margin-left: 2%;
+}
+
+h4 {
+  font-weight: 900;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: blue;
+}
+
+button {
+  text-align: center;
+  margin-left: 50%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+  border: 1px rgb(80, 23, 23) solid;
+  background-color: blanchedalmond;
+  width: 125px;
+  height: 65px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+
+.title {
+  text-align: center;
+  background-color: rgba(189, 95, 95, 0.9);
+  font-size: 40px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+#createMessage {
+  font-size: 28px;
+}
+
+.scientist {
+  float: right;
+  padding-right: 5%;
+  margin-top: 2%;
+}
+
+.questions {
+  padding-left: 3%;
+  padding-top: 2%;
+}
+
+#submit {
+  width: 10%;
+  font-size: 25px;
+}
+
+#results {
+  text-align: center;
+  font-size: 40px;
+}
