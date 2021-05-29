@@ -49,7 +49,7 @@ function check () {
         response3.innerHTML = "Answer to Question 3 is correct!";
         response3.style.color = "green";
     } else { //if incorrect
-        response3.innerHTML = "Answer to Question 1 is wrong."
+        response3.innerHTML = "Answer to Question 3 is wrong."
         response3.style.color = "red";
     }
 
@@ -59,7 +59,7 @@ function check () {
         response4.innerHTML = "Answer to Question 4 is correct!";
         response4.style.color = "green";
     } else { //if incorrect
-        response4.innerHTML = "Answer to Question 1 is wrong."
+        response4.innerHTML = "Answer to Question 4 is wrong."
         response4.style.color = "red";
     }
 
@@ -69,7 +69,7 @@ function check () {
         response5.innerHTML = "Answer to Question 5 is correct!";
         response5.style.color = "green";
     } else { //if incorrect
-        response5.innerHTML = "Answer to Question 1 is wrong."
+        response5.innerHTML = "Answer to Question 5 is wrong."
         response5.style.color = "red";
     }
 
@@ -79,7 +79,7 @@ function check () {
         response6.innerHTML = "Answer to Question 6 is correct!";
         response6.style.color = "green";
     } else { //if incorrect
-        response6.innerHTML = "Answer to Question 1 is wrong."
+        response6.innerHTML = "Answer to Question 6 is wrong."
         response6.style.color = "red";
     }
 
